@@ -1,5 +1,4 @@
-import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import Title from './components/Title';
 
@@ -11,7 +10,7 @@ function App() {
       </main>
 
       <header className="App-header">
-        <h1>my first React thingy! is maybe not workind!</h1>
+        <h1>my first React thingy is broken!</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           this is an experiment. it is maybe working?
