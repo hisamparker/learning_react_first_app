@@ -6,9 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>yy first React thingy!</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          this is an experiment. it is maybe working?
         </p>
         <a
           className="App-link"
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          i maybe will learn React? who knows!
         </a>
       </header>
     </div>
