@@ -1,6 +1,6 @@
-
-import './App.css';
-import Title from './components/Title';
+import React from "react";
+import "./App.css";
+import Title from "./components/Title";
 
 function App() {
   return (
@@ -12,9 +12,7 @@ function App() {
       <header className="App-header">
         <h1>my first React thingy is broken!</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          this is an experiment. it is maybe working?
-        </p>
+        <p>this is an experiment. it is maybe working?</p>
         <a
           className="App-link"
           href="https://www.reddit.com/r/reactjs/"
