@@ -10,7 +10,7 @@ function App() {
       </main>
 
       <header className="App-header">
-        <h1>my first React thingy!</h1>
+        <h1>my first React thingy is broken!</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           this is an experiment. it is maybe working?
