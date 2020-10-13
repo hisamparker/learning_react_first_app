@@ -2,12 +2,14 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Title from "./components/Title";
+import Dndfriends from "./components/Dndfriends";
 
 function App() {
   return (
     <div className="App">
       <main>
-        <Title content="Some Simple Title" />
+        <Title content="DnD is noice" />
+        <Dndfriends />
       </main>
 
       <header className="App-header">
