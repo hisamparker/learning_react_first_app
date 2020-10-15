@@ -1,0 +1,6 @@
+.Dndfriends {
+  transition: transform 0.2s ease;
+}
+.Dndfriends:hover {
+  transform: scale(1.02) translate(0, -3px);
+}
